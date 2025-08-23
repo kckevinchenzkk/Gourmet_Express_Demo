@@ -4,7 +4,12 @@
 It delivers a seamless experience for both customers and restaurant owners, featuring real-time order tracking, dynamic admin tools, and responsive UI design.  
 
 ## 🎥 Demo Video  
-[![Gourmet Express Demo](https://github.com/user-attachments/assets/c2d0f9f7-4576-41a1-afea-a63c951654d9)](https://youtu.be/uoI4MAg01h8)
+<!--- [![Gourmet Express Demo](https://github.com/user-attachments/assets/c2d0f9f7-4576-41a1-afea-a63c951654d9)](https://youtu.be/uoI4MAg01h8)
+---> 
+
+
+https://github.com/user-attachments/assets/db40829c-f3d6-4d90-a67e-b047135339bc
+
 
 ## 🛠 Tech Stack  
 - **Frontend:** Next.js, React, Tailwind CSS
